@@ -8,4 +8,9 @@
 
 - Just Extract file in the same path with index.
 
+<h3>Website inspire by </h3>
+
+- <a href="https://www.gibson.com/en-US/">Gibson</a>
+- <a href="https://www.fender.com/en/start">Fender</a>
+
 <p>** Not Finished yet **</p>
